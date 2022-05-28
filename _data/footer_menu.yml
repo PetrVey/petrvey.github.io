@@ -1,6 +1,6 @@
 - name: Home
   link: /
-- name: Projects
+- name: Portfolio
   link: /products/
 - name: Publications
   link: /publications/

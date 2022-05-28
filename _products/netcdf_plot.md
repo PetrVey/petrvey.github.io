@@ -4,24 +4,40 @@ subtitle: at National Taiwan University
 layout: product
 image: img/netcdf_plot_home.jpg
 features:
+    - label: Year:2022
+      icon: fa-map
     - label: Python
       icon: fa-map
     - label: Remote sensing
       icon: fa-map
-Year: 2022
+Sort_Position: 01
 ---
+<div class="content">
+This is based on my research I have done at National Taiwan University and on the <a href="https://doi.org/10.1016/j.renene.2022.01.027" target="_blank">manuscript</a> I have published together with Professor Jen-Yu Han. 
+</div>
+---
+<div class="content">
+	<h2>Problem statment:</h2>
+	<p>Map the past global horizontal irradiance (GHI) to support the renewable solar energy sector in the Taiwan.</p>
+	
+	<h2>How I did it:</h2>
+	<p>First, I downloaded Himawari-8 satellite data and NASA's reanalysis MERRA-2 data.</p>
+	<p>Second, I applied proposed methodology from manuscript, that modified <a href="https://doi.org/10.1016/j.solener.2004.04.017" target="_blank">Heliosat method</a>. This was done by python scripts.</p>
+	<p>Lastly, the output data in hourly temporal resolution were converted to monhtly sum.</p>
+	<p>Such data will be later used to produce the typical meteorological year around the whole Taiwan island.</p>
+</div>
 
-
-<figure class="image is-320x240">
-	<img src="img/netcdf_plot.gif">
-		<figcaption>
-			Figure 1: 2020 monthly irradiance gif
-	</figcaption>
-</figure>
-
-
+<div class="content">
+	<h2>Result:</h2>
+	<figure class="image is-320x240">
+		<img src="img/netcdf_plot.gif">
+			<figcaption>
+				Figure 1: 2020 monthly irradiance gif. Taiwan island on right and Taipei city region on left.
+		</figcaption>
+	</figure>
+</div>
 <div class="block">
-Python script for gif from netcdf:
+Python script for gif above:
 </div>
 ```python
 import numpy as np
@@ -136,3 +152,13 @@ img, *imgs = [Image.open(f).convert('RGBA') for f in sorted(glob.glob(fp_in))]
 img.save(fp=fp_out, format="GIF", append_images=imgs,
          save_all=True, duration=500, loop=0)
 ```
+
+
+<div class="block">
+	<h2>Data sources:</h2>
+	<ul>
+		<li>FTP site provided by JAXA (ftp.ptree.java.jp</li>
+		<li>NASA MERRA-2 dataset</li>
+		<li>Central Weather Bureau, Taiwan</li>
+	</ul>
+</div>
