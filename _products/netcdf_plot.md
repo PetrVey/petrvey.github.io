@@ -24,7 +24,7 @@ This is based on my research I have done at National Taiwan University and on th
 	<p>First, I downloaded Himawari-8 satellite data and NASA's reanalysis MERRA-2 data.</p>
 	<p>Second, I applied proposed methodology from manuscript, that modified <a href="https://doi.org/10.1016/j.solener.2004.04.017" target="_blank">Heliosat method</a>. This was done by python scripts.</p>
 	<p>Lastly, the output data in hourly temporal resolution were converted to monhtly sum.</p>
-	<p>Such data will be later used to produce the typical meteorological year around the whole Taiwan island.</p>
+	<p>Such data will be later used to produce the typical meteorological year for the whole Taiwan island.</p>
 </div>
 
 <div class="content">
