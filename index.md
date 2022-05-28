@@ -10,7 +10,7 @@ layout: page
   <div class="card-content">
     <div class="media">
       <div class="media-left">
-        <figure class="image is-480x640">
+        <figure class="image is-4by3">
           <img src="https://bulma.io/images/placeholders/480x640.png" alt="Placeholder image">
         </figure>
       </div>
@@ -29,10 +29,6 @@ layout: page
 
 ---
 
-```json
-{ "name":"Alice","surname":"Cooper", "age":42, "sex":"F" }
-{ "name":"Marcello","surname":"Monachesi", "age":28, "sex":"M" }
-```
 
 
 
