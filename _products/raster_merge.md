@@ -11,7 +11,7 @@ features:
     - label: Python
       icon: fa-map
 
-Sort_Position: 02
+Sort_Position: 03
 ---
 This is short python script for mergin multiple raster together.
 

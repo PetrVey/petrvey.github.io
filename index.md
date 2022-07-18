@@ -1,6 +1,6 @@
 ---
 title: Petr Vohnicky
-subtitle: Personal Webpage
+subtitle: Geospatial Analyst (Water resources)
 layout: page
 ---
 <div class="columns">
