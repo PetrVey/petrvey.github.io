@@ -1,6 +1,6 @@
 ---
 title: Petr Vohnicky
-subtitle: Geospatial Analyst (Water resources)
+subtitle: Geospatial Analyst
 layout: page
 ---
 <div class="columns">
@@ -47,7 +47,11 @@ layout: page
 					</p>
 				</li>
 			</ul>
-
+			<h4>Skills:</h4>
+			<ul>ArcGIS / HEC-RAS / Python (Numpy, Scipy, Matplotlib, Pandas, Xarray, and scikit-learn libraries) / Microsoft
+				Office / QGIS / NodeXL / Gephi Software / Creating Static Sites with Jekyll
+			</ul>
+			
 		</div>
 	</div>
 </div>
