@@ -19,8 +19,5 @@ subtitle: List of published and submitted manuscripts
 		<li>
 			Han, J. Y., & <strong>Vohnicky, P.</strong>. Estimation of global and diffuse horizontal irradiance by machine learning techniques based on variables from the Heliosat model.
 		</li>
-		<li>
-			Lin Y.T., <strong>Vohnicky, P.</strong>, Han, J. Y., and You G.J.Y. A GIS-based framework for identifying retarding basins based on multiple spatial factors.
-		</li>
 	</ul>
 </div>
