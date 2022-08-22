@@ -6,6 +6,9 @@ subtitle: List of published and submitted manuscripts
 <div class="content">
 	<h2>Published:</h2>
 	<ol>
+        <li>
+		Han, J. Y., & <strong>Vohnicky, P.</strong>. (2022). Estimation of global and diffuse horizontal irradiance by machine learning techniques based on variables from the Heliosat model. Journal of Cleaner Production. <a href="https://doi.org/10.1016/j.jclepro.2022.133496" target="_blank">https://doi.org/10.1016/j.jclepro.2022.133496</a>
+		</li>
 		<li>
 			Han, J. Y., & <strong>Vohnicky, P.</strong> (2022). An optimized approach for mapping solar irradiance in a mid-low latitude region based on a site-adaptation technique using Himawari-8 satellite imageries. Renewable Energy, 187, 603–617. <a href="https://doi.org/10.1016/j.renene.2022.01.027" target="_blank">https://doi.org/10.1016/j.renene.2022.01.027</a>
 		</li>
@@ -16,8 +19,6 @@ subtitle: List of published and submitted manuscripts
 	<p></p>
 	<h2>Submitted:</h2>
 	<ul>
-		<li>
-			Han, J. Y., & <strong>Vohnicky, P.</strong>. Estimation of global and diffuse horizontal irradiance by machine learning techniques based on variables from the Heliosat model.
-		</li>
+
 	</ul>
 </div>
