@@ -15,12 +15,12 @@ layout: product
 ---
 ---
 <div class="content">
-
+Little for fun project :)
 </div>
 ---
 
 <div class="content">
-	<h2>Problem statment:</h2>
+	<h3>Problem statment:</h3>
 	<p>In 2019, The city of Prague (capital of the Czech Republic) set a goal of planting a million trees on its territory within eight years</p>
 	<p>Details here: <a href="https://www.zastromujprahu.cz" target="_blank">zastromujprahu.cz</a> and <a href="https://adaptacepraha.cz" target="_blank">adaptacepraha.cz</a>
 	<p>Out of curiosity, I want to map how total % urban green has improved after this policy was implemented.</p>
@@ -28,7 +28,7 @@ layout: product
 	<p>Altought, in this case, the simpler method based on normalized difference vegetation index <a href="https://doi.org/10.3390/land11030351" target="_blank"><b>(NDVI)</b></a> can be used. This method utilized the Sentinel-2 satellite imagery.</p>
 	<p></p>
 	
-	<h2>How I did it:</h2>
+	<h3>How I did it:</h3>
 	<p><b>1.) Download:</b></p>
 	<p>Shapefile of <a href="https://www.geoportalpraha.cz/en/data/opendata" target="_blank">municipality districts of Prague city</a>.</p>
 	<p>Cloudless Sentinel-2 satellite imagery from 2020 to 2021. Probably the easiest option for this is to use <a href="https://fromgistors.blogspot.com/p/semi-automatic-classification-plugin.html" target="_blank">Semi-Automatic Classification Plugin for QGIS</a> by amazing Luca Congedo.</p>
@@ -89,7 +89,7 @@ layout: product
 	<p>Lastly, to obtain percentage of vegatation the sum was divided by count.</p>
 	<p></p>
 <div class="content">
-	<h2>Result:</h2>
+	<h3>Result:</h3>
 	<figure class="image is-320x240">
 		<img src="img/08_result_gif.gif">
 			<figcaption>
@@ -115,7 +115,7 @@ layout: product
 </div>
 ---
 <div class="block">
-	<h2>Data sources:</h2>
+	<h3>Data sources:</h3>
 	 <ul>
 		<li><a href="https://www.geoportalpraha.cz/en/data/opendata" target="_blank">Open data in Prague</a></li>
 		<li><a href="https://scihub.copernicus.eu/" target="_blank">Copernicus Open Access Hub</a></li>

@@ -16,7 +16,7 @@ Sort_Position: 03
 This is short python script for mergin multiple raster together.
 
 <div class="content">
-	<h2>Problem statment:</h2>
+	<h3>Problem statment:</h3>
 	<p>If we need to merge multiple rasters together we normally use <em>Mosaic To New Raster tool</em>.</p>
 	<p>This function doesn't work well with a large number of datasets or if the final GeoTIFF is too large.</p>
 	<p>Therefore, it's better to use a python script to do the hard work for us.</p>
@@ -26,7 +26,7 @@ This is short python script for mergin multiple raster together.
 		<figcaption>
 			Figure 1: Raster grids
 	    </figcaption>
-	<h2>How I did it:</h2>
+	<h3>How I did it:</h3>
 	<p>First I used the selected area shapefile to clip the grid shapefile.</p>
 	<p>Second, I exported an attribute table, where each polygon has a <em>grid</em> field.</p>
 	<p>In the last step, I built this small script which is based on the osgeo.gdal library.</p>
@@ -62,7 +62,7 @@ g = None
 ```
 
 <div class="content">
-	<h2>Results:</h2>
+	<h3>Results:</h3>
 	<figure class="image is-320x240">
 		<img src="img/raster_merge_home.jpg">
 		<figcaption>

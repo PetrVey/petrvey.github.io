@@ -17,10 +17,10 @@ This is based on my research I have done at National Taiwan University and on th
 </div>
 ---
 <div class="content">
-	<h2>Problem statment:</h2>
+	<h3>Problem statment:</h3>
 	<p>Map the past global horizontal irradiance (GHI) to support the renewable solar energy sector in the Taiwan.</p>
 	
-	<h2>How I did it:</h2>
+	<h3>How I did it:</h3>
 	<p>First, I downloaded Himawari-8 satellite data and NASA's reanalysis MERRA-2 data.</p>
 	<p>Second, I applied proposed methodology from manuscript, that modified <a href="https://doi.org/10.1016/j.solener.2004.04.017" target="_blank">Heliosat method</a>. This was done by python scripts.</p>
 	<p>Lastly, the output data in hourly temporal resolution were converted to monhtly sum.</p>
@@ -28,7 +28,7 @@ This is based on my research I have done at National Taiwan University and on th
 </div>
 
 <div class="content">
-	<h2>Result:</h2>
+	<h3>Result:</h3>
 	<figure class="image is-320x240">
 		<img src="img/netcdf_plot.gif">
 			<figcaption>
@@ -155,7 +155,7 @@ img.save(fp=fp_out, format="GIF", append_images=imgs,
 
 
 <div class="block">
-	<h2>Data sources:</h2>
+	<h3>Data sources:</h3>
 	<ul>
 		<li>FTP site provided by JAXA (ftp.ptree.java.jp</li>
 		<li>NASA MERRA-2 dataset</li>

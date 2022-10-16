@@ -15,7 +15,11 @@ Sort_Position: 04
 layout: product
 ---
 <div class="content">
-<h2>Thesis title:</h2>
+My Master Thesis project 
+</div>
+---
+<div class="content">
+<h3>Thesis title:</h3>
 <em>Residential Flood Risk Mapping Based on Social Vulnerability Weighted by Analytical Hierarchy Process and Machine Learning Methods</em>
 </div>
 ---
@@ -28,7 +32,7 @@ layout: product
 </div>
 ---
 <div class="block">
-	<h2>Flood Hazard:</h2>
+	<h3>Flood Hazard:</h3>
 	<p>
 		The fluvial flood hazard component was based on the simulated water depth by HEC-RAS hydraulic model in 2D (with diffusion wave approximation). 
 		Return period flood peaks for 50, 100 and 200 year return period (RP) at upstream bridge station were equaled to 9280, 10630 and 12000 cms, respectively, and were obtained from local Water Resources Agency analysis. Designed hydrographs were prepared based on the United Nations-SPIDER advisory portal (United Nations 2020). Known flood event hydrographs and flood return periods were used for the calculation.
@@ -61,7 +65,7 @@ layout: product
 </div>
 ---
 <div class="block">
-	<h2>Flood vulnerability:</h2>
+	<h3>Flood vulnerability:</h3>
 	Three different vulnerability importance weightings were applied to generate flood vulnerability maps. Two machine learning models, classification and regression tree (CART) and random forest (RF), were selected for feature importance calculation in this study. The machine learning results were compared with the weighted importance obtained from an Analytical hierarchy process (AHP) procedure for performance evaluation, where a total of 16 questionnaire respondents participated in the survey. The vulnerability indexes were selected based on literature review and data availability in the study area. 
 	The flood vulnerability was as well produced in two different spatial resolutions 20m and 100m based on the positions of houses.
 	<div class="columns">
@@ -81,7 +85,7 @@ layout: product
 </div>
 ---
 <div class="block">
-<h2>Flood risk:</h2>
+<h3>Flood risk:</h3>
 In total 30 different flood risk maps were generated covering different flood vulnerability methods, flood vulnerability resolution, and flood model resolution.
 <div class="columns">
 		<div class="column">
@@ -107,12 +111,12 @@ In total 30 different flood risk maps were generated covering different flood vu
 </div> 
 ---
 <div class="block">
-	<h2>Findings:</h2>
+	<h3>Findings:</h3>
 	Fist, findings from vulnerability maps indicated that CART model tended to small overestimate, and RF, on the other hand, tended to largely overestimate AHP result. Second, the vulnerability resolution had a much larger impact due to fact that rougher resolution accommodated more households. Lastly, finer flood model resolution provided more precise results in urban areas and extended risk zones.
 </div>
 ---
 <div class="block">
-	<h2>Data sources:</h2>
+	<h3>Data sources:</h3>
 	 <ul>
 		<li>Central Weather Bureau, Taiwan</li>
 		<li>Shanhua Household Registration Office</li>
