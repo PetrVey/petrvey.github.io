@@ -6,20 +6,20 @@ title: Publications & Academic work
 	<h3>Journal Papers:</h3>
 	<ol>
         <li>
-			Han, J. Y., and <strong>Vohnicky, P.</strong>&nbsp; (2022). 
-			<i>&nbsp;Estimation of global and diffuse horizontal irradiance by machine learning techniques based on variables from the Heliosat model.&nbsp;</i> 
+			Han, J. Y., and <strong>Vohnicky, P.</strong>  (2022). 
+			<i> Estimation of global and diffuse horizontal irradiance by machine learning techniques based on variables from the Heliosat model. </i> 
 			Journal of Cleaner Production. 
 			<a href="https://doi.org/10.1016/j.jclepro.2022.133496" target="_blank">https://doi.org/10.1016/j.jclepro.2022.133496</a>
 		</li>
 		<li>
-			Han, J. Y., and <strong>Vohnicky, P.</strong>&nbsp; (2022). 
-			<i>&nbsp;An optimized approach for mapping solar irradiance in a mid-low latitude region based on a site-adaptation technique using Himawari-8 satellite imageries.&nbsp;</i> 
+			Han, J. Y., and <strong>Vohnicky, P.</strong>  (2022). 
+			<i> An optimized approach for mapping solar irradiance in a mid-low latitude region based on a site-adaptation technique using Himawari-8 satellite imageries. </i> 
 			Renewable Energy, 187, 603–617. 
 			<a href="https://doi.org/10.1016/j.renene.2022.01.027" target="_blank">https://doi.org/10.1016/j.renene.2022.01.027</a>
 		</li>
 		<li>
-			Jang, J. H., <strong>Vohnicky, P. </strong> , and Kuo, Y. L. &nbsp;(2021).
-			<i>&nbsp;Improvement of Flood Risk Analysis Via Downscaling of Hazard and Vulnerability Maps.&nbsp;</i> 
+			Jang, J. H., <strong>Vohnicky, P. </strong> , and Kuo, Y. L.  (2021).
+			<i> Improvement of Flood Risk Analysis Via Downscaling of Hazard and Vulnerability Maps. </i> 
 			Water Resources Management, 35(7), 2215–2230. 
 			<a href="https://doi.org/10.1007/s11269-021-02836-0" target="_blank">https://doi.org/10.1007/s11269-021-02836-0</a>
 		</li>
@@ -30,7 +30,7 @@ title: Publications & Academic work
 	<h3>Conferences:</h3>
 		<ul style="list-style-type:none">
 		<li>
-			<strong>The 4th International Conference on Engineering, Technology and Innovative Researches (Purwokerto, Indonesia);&nbsp; 2022;&nbsp;Invited speaker</strong>
+			<strong>The 4th International Conference on Engineering, Technology and Innovative Researches (Purwokerto, Indonesia);  2022; Invited speaker</strong>
 		</li>
 		<li>
 			<strong>Vohnicky, P.</strong>, and Han, J. Y. </li>
@@ -41,7 +41,7 @@ title: Publications & Academic work
 	
 	<ul style="list-style-type:none">
 		<li>
-			<strong>The 39th Conference on Surveying and Geomatics (Taipei, Taiwan);&nbsp; 2021;</strong>&nbsp;Abstract and Oral Presentation
+			<strong>The 39th Conference on Surveying and Geomatics (Taipei, Taiwan); 2021; </strong>Abstract and Oral Presentation
 		</li>
 		<li>
 			Chen Y.C., Li S-Y,  Kan Y.H., <strong>Vohnicky, P.</strong>, and Han, J. Y. </li>
@@ -52,7 +52,7 @@ title: Publications & Academic work
 	
 	<ul style="list-style-type:none">
 		<li>
-			<strong>The 1st International Sustainable Development Conference (Pingtung, Taiwan);&nbsp; 2020;</strong>&nbsp;Abstract and Oral Presentation
+			<strong>The 1st International Sustainable Development Conference (Pingtung, Taiwan);  2020; </strong>Abstract and Oral Presentation
 		</li>
 		<li>
 			<strong>Vohnicky, P.</strong>, Jang J.H., and Lee K.F.</li>
@@ -65,7 +65,7 @@ title: Publications & Academic work
 	
 	<h3>Thesis Consultant:</h3>
 	<ol>
-		<li value="	2023">
+		<li value="2023">
 		Student: M. Plachý (Student)<br>
 		Title: <i>Bezpečnostní dopady hospodářských cyklů na změnu společnosti od liberální k extrémistické (Security Implications of Business Cycles for Changing Society from Liberal to Extremist)</i><br>
 		Supervisor: doc. Ing. Mgr. Radomír Ščurek, Ph.D.<br>
