@@ -18,7 +18,7 @@ My first "30 Day Map Challenge"
 	<div class="columns">
 		<div class="column is-one-third">
 			<div class="box" style="width: 200px;">
-			{% include image-modal.html ratio="is-3by4" link="products/30DayMapChallenge/img/01_FInal.jpg" alt="Points" large_link="products/30DayMapChallenge/img/01_Final.jpg" %}
+			{% include image-modal.html ratio="is-3by4" link="products/30DayMapChallenge/img/01_Final.jpg" alt="Points" large_link="products/30DayMapChallenge/img/01_Final.jpg" %}
 				<h5>1.Points</h5>
 			</div>
 		</div>
