@@ -17,17 +17,11 @@ My first "30 Day Map Challenge"
 <div class="block">
 	<div class="columns">
 		<div class="column is-one-third">
-<<<<<<< HEAD
 			<div class="box" style="width: 300px; height:525px">
 			{% include image-modal.html ratio="is-3by4" link="products/30DayMapChallenge/img/01_Final.jpeg" alt="Points" large_link="products/30DayMapChallenge/img/01_Final.jpeg" %}
 				<p class="is-size-5">1.Points</p>
 				<p></p>
 				<p class="is-size-7">Transformed AsterDEM to 10km resolution and then to points shapefile.</p>
-=======
-			<div class="box" style="width: 200px;">
-			{% include image-modal.html ratio="is-3by4" link="products/30DayMapChallenge/img/01_Final.jpg" alt="Points" large_link="products/30DayMapChallenge/img/01_Final.jpg" %}
-				<h5>1.Points</h5>
->>>>>>> 703c3506eea58d8eeb689187da321b6316815969
 			</div>
 		</div>
 		<div class="column is-one-third">
