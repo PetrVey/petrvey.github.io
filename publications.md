@@ -9,7 +9,7 @@ title: Publications & Academic work
 			Han, J. Y., and <strong>Vohnicky, P.</strong>  (2022). 
 			<i> Estimation of global and diffuse horizontal irradiance by machine learning techniques based on variables from the Heliosat model. </i> 
 			Journal of Cleaner Production. 
-			<a href="https://doi.org/10.1016/j.jclepro.2022.133496" target="_blank">https://doi.org/10.1016/j.jclepro.2022.133496</a>
+			<a href="https://doi.org/10.1016/j.jclepro.2022.133496" target="_blank">https://doi.org/10.1016/j.jclepro.2022.133696</a>
 		</li>
 		<li>
 			Han, J. Y., and <strong>Vohnicky, P.</strong>  (2022). 
