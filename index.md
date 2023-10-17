@@ -11,7 +11,7 @@ layout: page
 	</div>
 	<div class="column">
 		<p>Hello! I am Petr and this is my personal website.</p>
-		<p>I am doing my phd at Universtiy of Padova in ater resources, soil and watershed protection group.</p>
+		<p>I am doing my phd at Universtiy of Padova in water resources, soil and watershed protection group.</p>
 		<p>In past, I spent two years of working in Taipei City (TAIWAN) as a reseach assistant at National Taiwan University just right after I received my MSc. degree in <em>Natural hazards mitigation and management</em> from National Cheng Kung University (TAIWAN) in 2020.</p>
 		<p>I've been interested in anything related to water science and GIS. Lately, owing to my work experience, I've been also excited about remote sensing technology and python coding. 😃</p>
 		<p></p>
