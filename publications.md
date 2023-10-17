@@ -66,7 +66,7 @@ title: Publications & Academic work
 	<h3>Thesis Consultant:</h3>
 	<ol>
 		<li value="2023">
-		Student: M. Plachý (Student)<br>
+		Student: M. Plachý (GRADUATED)<br>
 		Title: <i>Bezpečnostní dopady hospodářských cyklů na změnu společnosti od liberální k extrémistické (Security Implications of Business Cycles for Changing Society from Liberal to Extremist)</i><br>
 		Supervisor: doc. Ing. Mgr. Radomír Ščurek, Ph.D.<br>
 		Master's degree program (Ing. - Engineering) VSB - Technical University of Ostrava<br>

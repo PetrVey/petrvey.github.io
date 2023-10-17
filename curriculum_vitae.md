@@ -6,6 +6,33 @@ title: Curriculum Vitae
 <h4>Working experience:</h4>
 	<div class="box">
 		<p> 
+			<strong>Oct 2023 - ongoing </strong><br>
+			Università degli Studi di Padova (Italy) <br>
+			Phd researcher <br>
+			<br>
+			► Phd Fellow under Marie Skłodowska-Curie grant<br>
+			► Department of Land, Environment, Agriculture and Forestry <br>
+			in Water resources, soil and watershed protection group.<br>
+			► Project title: <br>
+			Relationship between future changes in extreme precipitation and flooding for extreme events.<br>
+		</p>
+	</div>	
+	<div class="box">
+		<p> 
+			<strong>Feb 2023 - Sep 2023</strong><br>
+			Novasole (Netherlands) <br>
+			Geo data scientist  <br>
+			<br>
+			► Developed the rooftop plane segmentation Python package. <br>
+			► Worked with Lidar Point Cloud dataset and GIS data. <br>
+			► Used PostgreSQL, PostGIS, and sqlachemy to extend the database. <br>
+			► Applied GrassGIS for solar energy analysis. <br>
+			► Worked in an Agile Scrum environment. <br>
+			► Developed skills in git and version control. <br>
+		</p>
+	</div>	
+	<div class="box">
+		<p> 
 			<strong>Sep 2020 - Jul 2022</strong><br>
 			National Taiwan University (Taiwan) <br>
 			University research assistant <br>
