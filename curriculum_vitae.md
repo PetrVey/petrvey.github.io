@@ -8,13 +8,15 @@ title: Curriculum Vitae
 		<p> 
 			<strong>Oct 2023 - ongoing </strong><br>
 			Università degli Studi di Padova (Italy) <br>
-			Phd researcher <br>
+			PhD researcher <br>
 			<br>
-			► Phd Fellow under Marie Skłodowska-Curie grant<br>
+			► Phd Fellow under Marie Skłodowska-Curie grant (UniPHD cofound)<br>
 			► Department of Land, Environment, Agriculture and Forestry <br>
 			in Water resources, soil and watershed protection group.<br>
-			► Project title: <br>
-			Relationship between future changes in extreme precipitation and flooding for extreme events.<br>
+			► Project title: Projected changes in flood occurrence at convection-permitting scale across an alpine transect<br>
+			► Sub-title: Relationship between future changes in precipitation and flooding for extreme events<br>
+			<br>
+			► Statistical modeling in Python and Matlab <br>
 		</p>
 	</div>	
 	<div class="box">
@@ -24,8 +26,8 @@ title: Curriculum Vitae
 			Geo data scientist  <br>
 			<br>
 			► Developed the rooftop plane segmentation Python package. <br>
-			► Worked with Lidar Point Cloud dataset and GIS data. <br>
 			► Used PostgreSQL, PostGIS, and sqlachemy to extend the database. <br>
+			► Worked with Lidar Point Cloud dataset and GIS data. <br>
 			► Applied GrassGIS for solar energy analysis. <br>
 			► Worked in an Agile Scrum environment. <br>
 			► Developed skills in git and version control. <br>
@@ -37,12 +39,12 @@ title: Curriculum Vitae
 			National Taiwan University (Taiwan) <br>
 			University research assistant <br>
 			<br>
-			► Literature research, methodology design, and report writing for two MOST-TW projects. <br>
-			Solar irradiance mapping based on geostationary satellite (won Future Tech Award 2021, MOST-TW); <br>
-			Preliminary feasibility assessment for flood detention in Taiwan; <br>
 			► Data collection, cleaning, and analysis in Python (NumPy, Pandas, xarray). <br>
 			► Building Python-based empirical models and scripts. <br>
 			► GIS analysis in ESRI ArcGIS. <br>
+			► Literature research, methodology design, and report writing for two MOST-TW projects. <br>
+			Solar irradiance mapping based on geostationary satellite (won Future Tech Award 2021, MOST-TW); <br>
+			Preliminary feasibility assessment for flood detention in Taiwan; <br>
 			► Scientific writing for paper publishing. <br>	
 		</p>
 	</div>	
@@ -62,6 +64,25 @@ title: Curriculum Vitae
 	
 	
 <h4>Education:</h4>
+
+	<div class="box">
+		<p> 
+			<strong>Oct 2023 - Ongoing</strong><br>
+			Università degli Studi di Padova (Italy) <br>
+			Department of Land, Environment, Agriculture and Forestry <br>
+			Doctor of Philosophy – PhD <br>
+			<br>
+			<strong>Field of study: </strong>
+			<br>
+			The PhD Program Land, Environment, Resources and Health<br>
+			<strong>Project title: </strong><br>
+			Projected changes in flood occurrence at convection-permitting scale across an alpine transect. <br>
+			Sub-title: Relationship between future changes in precipitation and flooding for extreme events<br>
+			<br>
+			Period abroad: <br>
+		</p>
+	</div>
+
 	<div class="box">
 		<p> 
 			<strong>Sep 2018 - Jul 2020</strong><br>
@@ -109,8 +130,8 @@ title: Curriculum Vitae
 	<h4>Technical Skills:</h4>
 	<div class="box">
 		<ul>
-			ArcGIS / HEC-RAS / Python (Numpy, Scipy, Matplotlib, Pandas, Xarray, and scikit-learn libraries) / Microsoft
-			Office / QGIS / NodeXL / Gephi Software / Creating Static Sites with Jekyll
+			Python (Numpy, Scipy, Matplotlib, Pandas, Xarray, and scikit-learn libraries) / MATLAB / PostgreSQL (PostGIS) / git / Agile (Scrum) / 
+			ArcGIS / QGIS / GrassGIS / HEC-RAS / Microsoft Office / NodeXL / Gephi Software / Creating Static Sites with Jekyll
 		</ul>
 	</div>
 	

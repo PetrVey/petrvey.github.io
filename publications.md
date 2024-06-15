@@ -6,13 +6,13 @@ title: Publications & Academic work
 	<h3>Journal Papers:</h3>
 	<ol>
         <li>
-			Han, J. Y., and <strong>Vohnicky, P.</strong>  (2022). 
+			Han, J. Y., and <strong>Vohnicky, P.*</strong>  (2022). 
 			<i> Estimation of global and diffuse horizontal irradiance by machine learning techniques based on variables from the Heliosat model. </i> 
 			Journal of Cleaner Production. 
 			<a href="https://doi.org/10.1016/j.jclepro.2022.133496" target="_blank">https://doi.org/10.1016/j.jclepro.2022.133696</a>
 		</li>
 		<li>
-			Han, J. Y., and <strong>Vohnicky, P.</strong>  (2022). 
+			Han, J. Y., and <strong>Vohnicky, P.*</strong>  (2022). 
 			<i> An optimized approach for mapping solar irradiance in a mid-low latitude region based on a site-adaptation technique using Himawari-8 satellite imageries. </i> 
 			Renewable Energy, 187, 603–617. 
 			<a href="https://doi.org/10.1016/j.renene.2022.01.027" target="_blank">https://doi.org/10.1016/j.renene.2022.01.027</a>
@@ -28,9 +28,34 @@ title: Publications & Academic work
 	<p></p>
 	
 	<h3>Conferences:</h3>
-		<ul style="list-style-type:none">
+	<ul style="list-style-type:none">
 		<li>
-			<strong>The 4th International Conference on Engineering, Technology and Innovative Researches (Purwokerto, Indonesia);  2022; Invited speaker</strong>
+			<strong>AIIA 2024: BIOSYSTEMS ENGINEERING PROMOTING RESILIENCE TO CLIMATE CHANGE (Padova, Italy);  2024; </strong> Abstract and Poster - Presented by Pesce, M.
+		</li>
+		<li>
+			Pesce, M., <strong>Vohnicky, P.</strong>, Dallan, E., Marra, F., Fosser, G., and Borga, M.</li>
+		<li>
+			<i>Elevation-dependent amplification of rainfall extremes: the role of snow fraction in convection-permitting models.</i>
+		</li>
+	</ul>
+	
+	
+	<ul style="list-style-type:none">
+		<li>
+			<strong>EGU General Assembly 2024 (Vienna, Austria);  2024; </strong> Abstract and Oral Presentation
+		</li>
+		<li>
+			<strong>Vohnicky, P.,</strong>, Dallan, E., Marra, F., Fosser, G., Pesce, M., and Borga, M.</li>
+		<li>
+			<i>Projected amplification of rainfall extremes due to warming-induced reduction of snow fraction: an assessment based on convection-permitting simulations</i>
+			<a href="https://doi.org/10.5194/egusphere-egu24-10297" target="_blank">https://doi.org/10.5194/egusphere-egu24-10297</a>
+		</li>
+	</ul>
+	
+	
+	<ul style="list-style-type:none">
+		<li>
+			<strong>The 4th International Conference on Engineering, Technology and Innovative Researches (Purwokerto, Indonesia);  2022; </strong> Invited speaker
 		</li>
 		<li>
 			<strong>Vohnicky, P.</strong>, and Han, J. Y. </li>
@@ -41,7 +66,7 @@ title: Publications & Academic work
 	
 	<ul style="list-style-type:none">
 		<li>
-			<strong>The 39th Conference on Surveying and Geomatics (Taipei, Taiwan); 2021; </strong>Abstract and Oral Presentation
+			<strong>The 39th Conference on Surveying and Geomatics (Taipei, Taiwan); 2021; </strong> Abstract and Oral Presentation - Presented by Li, S-Y.
 		</li>
 		<li>
 			Chen Y.C., Li S-Y,  Kan Y.H., <strong>Vohnicky, P.</strong>, and Han, J. Y. </li>
@@ -52,7 +77,7 @@ title: Publications & Academic work
 	
 	<ul style="list-style-type:none">
 		<li>
-			<strong>The 1st International Sustainable Development Conference (Pingtung, Taiwan);  2020; </strong>Abstract and Oral Presentation
+			<strong>The 1st International Sustainable Development Conference (Pingtung, Taiwan);  2020; </strong>Abstract and Oral Presentation - Presented by Lee K.F.
 		</li>
 		<li>
 			<strong>Vohnicky, P.</strong>, Jang J.H., and Lee K.F.</li>
@@ -62,6 +87,15 @@ title: Publications & Academic work
 	</ul>
 	
 	<p></p>
+	
+	<h3>Reviewer: </h3>
+	<ol>
+		<li>
+		Journal of Renewable and Sustainable Energy	; Energy Conversion and Management: X ;
+		</li>
+	
+	</ol>
+	
 	
 	<h3>Thesis Consultant:</h3>
 	<ol>
