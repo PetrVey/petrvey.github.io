@@ -30,6 +30,29 @@ title: Publications & Academic work
 	<h3>Conferences:</h3>
 	<ul style="list-style-type:none">
 		<li>
+			<strong>18th Plinius Conference on Mediterranean Risks (Chania, Greece);  2024; </strong> Abstract and Poster
+		</li>
+		<li>
+			<strong>Vohnicky, P.,</strong>, Dallan, E., Marra, F., Fosser, G., Pesce, M., and Borga, M.</li>
+		<li>
+			<i>Understanding the impact of climate change on areal reduction factors using convection-permitting models.</i>
+		</li>
+	</ul>
+	
+		<ul style="list-style-type:none">
+		<li>
+			<strong>18th Plinius Conference on Mediterranean Risks (Chania, Greece);  2024; </strong> Abstract and Presentation - Presented by Pesce, M.
+		</li>
+		<li>
+			Pesce, M., Dallan, E., Marra, F., Fosser, G., <strong>Vohnicky, P.</strong>, Akbary, R., and Borga, M.</li>
+		<li>
+			<i>Impact of temperature threshold selection on future changes of liquid precipitation return levels based on convection-permitting models.</i>
+		</li>
+	</ul>
+	
+	
+	<ul style="list-style-type:none">
+		<li>
 			<strong>AIIA 2024: BIOSYSTEMS ENGINEERING PROMOTING RESILIENCE TO CLIMATE CHANGE (Padova, Italy);  2024; </strong> Abstract and Poster - Presented by Pesce, M.
 		</li>
 		<li>
@@ -91,7 +114,7 @@ title: Publications & Academic work
 	<h3>Reviewer: </h3>
 	<ol>
 		<li>
-		Journal of Renewable and Sustainable Energy	; Energy Conversion and Management: X ;
+		Journal of Renewable and Sustainable Energy	; Energy Conversion and Management: X ; Solar Energy ; Journal of Hydrology ; 
 		</li>
 	
 	</ol>
