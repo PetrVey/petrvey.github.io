@@ -6,7 +6,7 @@ title: Publications & Academic work
 	<h3>Journal Papers:</h3>
 	<ol>
 		<li>
-			Pesce, M., <strong>Vohnicky, P.</strong>, Dallan, E., Marra, F., Fosser, G., and Borga, M.</li>  (2025). 
+			Pesce, M., <strong>Vohnicky, P.</strong>, Dallan, E., Marra, F., Fosser, G., and Borga, M. (2025). 
 			<i> Elevation-Dependent Amplification of Rainfall Extremes: The Role of Rainfall/Snowfall Fraction in Convection-Permitting Models. </i> 
 			Biosystems Engineering Promoting Resilience to Climate Change - AIIA 2024 - Mid-Term Conference. Lecture Notes in Civil Engineering, vol 586. 
 			<a href="https://doi.org/10.1007/978-3-031-84212-2_23" target="_blank">https://doi.org/10.1007/978-3-031-84212-2_23</a>
