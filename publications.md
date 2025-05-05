@@ -37,7 +37,7 @@ title: Publications & Academic work
 	<h3>Conferences:</h3>	
 	<ul style="list-style-type:none">
 		<li>
-			<strong>EGU General Assembly 2025 (Vienna, Austria);  2025; </strong> Abstract and Presentation
+			<strong>EGU General Assembly 2025 (Vienna, Austria);  2025; </strong> Abstract and Poster
 		</li>
 		<li>
 			<strong>Vohnicky, P.</strong>, Akbary, R., Dallan, E., Peleg, N., Marra, F., Fosser, G., and Borga, M.</li>
