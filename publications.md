@@ -165,9 +165,17 @@ title: Publications & Academic work
 	<h3>Reviewer: </h3>
 	<ul>
 		<li>
-		Journal of Renewable and Sustainable Energy	; Energy Conversion and Management: X ; Solar Energy ; Journal of Hydrology ; 
+		Journal of Renewable and Sustainable Energy	
 		</li>
-	
+		<li>
+		Energy Conversion and Management: X 
+		</li>
+		<li>
+		Solar Energy 
+		</li>
+		<li>
+		Journal of Hydrology
+		</li>
 	</ul>
 	
 	
