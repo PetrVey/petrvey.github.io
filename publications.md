@@ -62,7 +62,7 @@ title: Publications & Academic work
 			<strong>EGU General Assembly 2025 (Vienna, Austria);  2025; </strong> Abstract and Poster - Presented by Ahmed, M.
 		</li>
 		<li>
-			Ahmed, M., Dallan, E., <strong>Vohnicky, P.,</strong>, and Borga, M.</li>
+			Ahmed, M., Dallan, E., <strong>Vohnicky, P.</strong>, and Borga, M.</li>
 		<li>
 			<i>Assessment of rainfall erosivity from a convection-permitting model ensemble in an alpine transect.</i>
 		</li>
@@ -84,7 +84,7 @@ title: Publications & Academic work
 			<strong>18th Plinius Conference on Mediterranean Risks (Chania, Greece);  2024; </strong> Abstract and Poster
 		</li>
 		<li>
-			<strong>Vohnicky, P.,</strong>, Dallan, E., Marra, F., Fosser, G., Pesce, M., and Borga, M.</li>
+			<strong>Vohnicky, P.</strong>, Dallan, E., Marra, F., Fosser, G., Pesce, M., and Borga, M.</li>
 		<li>
 			<i>Understanding the impact of climate change on areal reduction factors using convection-permitting models.</i>
 		</li>
@@ -119,7 +119,7 @@ title: Publications & Academic work
 			<strong>EGU General Assembly 2024 (Vienna, Austria);  2024; </strong> Abstract and Oral Presentation
 		</li>
 		<li>
-			<strong>Vohnicky, P.,</strong>, Dallan, E., Marra, F., Fosser, G., Pesce, M., and Borga, M.</li>
+			<strong>Vohnicky, P.</strong>, Dallan, E., Marra, F., Fosser, G., Pesce, M., and Borga, M.</li>
 		<li>
 			<i>Projected amplification of rainfall extremes due to warming-induced reduction of snow fraction: an assessment based on convection-permitting simulations</i>
 			<a href="https://doi.org/10.5194/egusphere-egu24-10297" target="_blank">https://doi.org/10.5194/egusphere-egu24-10297</a>
