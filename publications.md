@@ -5,6 +5,13 @@ title: Publications & Academic work
 <div class="content">
 	<h3>Journal Papers:</h3>
 	<ol>
+		<li>
+			Pesce, M., <strong>Vohnicky, P.</strong>, Dallan, E., Marra, F., Fosser, G., and Borga, M.</li>  (2025). 
+			<i> Elevation-Dependent Amplification of Rainfall Extremes: The Role of Rainfall/Snowfall Fraction in Convection-Permitting Models. </i> 
+			Biosystems Engineering Promoting Resilience to Climate Change - AIIA 2024 - Mid-Term Conference. Lecture Notes in Civil Engineering, vol 586. 
+			<a href="https://doi.org/10.1007/978-3-031-84212-2_23" target="_blank">https://doi.org/10.1007/978-3-031-84212-2_23</a>
+		</li>
+	
         <li>
 			Han, J. Y., and <strong>Vohnicky, P.*</strong>  (2022). 
 			<i> Estimation of global and diffuse horizontal irradiance by machine learning techniques based on variables from the Heliosat model. </i> 
@@ -27,7 +34,51 @@ title: Publications & Academic work
 	
 	<p></p>
 	
-	<h3>Conferences:</h3>
+	<h3>Conferences:</h3>	
+	<ul style="list-style-type:none">
+		<li>
+			<strong>EGU General Assembly 2025 (Vienna, Austria);  2025; </strong> Abstract and Presentation
+		</li>
+		<li>
+			<strong>Vohnicky, P.</strong>, Akbary, R., Dallan, E., Peleg, N., Marra, F., Fosser, G., and Borga, M.</li>
+		<li>
+			<i>Future sub-daily extreme precipitation: can a stochastic method based on temperature shifts agree with explicit simulations from an ensemble of convection-permitting models?</i>
+		</li>
+	</ul>
+	
+	<ul style="list-style-type:none">
+		<li>
+			<strong>EGU General Assembly 2025 (Vienna, Austria);  2025; </strong> Abstract and Presentation
+		</li>
+		<li>
+			Thomas, E., Borga, M., <strong>Vohnicky, P.</strong>, and Marra, F.</li>
+		<li>
+			<i>Changes in hourly rainfall return levels due to temperature shifts: global assessment of the TENAX model.</i>
+		</li>
+	</ul>
+	
+	<ul style="list-style-type:none">
+		<li>
+			<strong>EGU General Assembly 2025 (Vienna, Austria);  2025; </strong> Abstract and Poster
+		</li>
+		<li>
+			Ahmed, M., Dallan, E., <strong>Vohnicky, P.,</strong>, and Borga, M.</li>
+		<li>
+			<i>Assessment of rainfall erosivity from a convection-permitting model ensemble in an alpine transect.</i>
+		</li>
+	</ul>
+	
+	<ul style="list-style-type:none">
+		<li>
+			<strong>EGU General Assembly 2025 (Vienna, Austria);  2025; </strong> Abstract and Presentation
+		</li>
+		<li>
+			Pesce, M., Dallan, E., Marra, F., Fosser, G., <strong>Vohnicky, P.</strong>, Akbary, R., and Borga, M.</li>
+		<li>
+			<i>Warming-induced increase in liquid fraction amplifies sub-daily rainfall extremes in the Greater Alpine Region.</i>
+		</li>
+	</ul>
+	
 	<ul style="list-style-type:none">
 		<li>
 			<strong>18th Plinius Conference on Mediterranean Risks (Chania, Greece);  2024; </strong> Abstract and Poster
@@ -112,12 +163,12 @@ title: Publications & Academic work
 	<p></p>
 	
 	<h3>Reviewer: </h3>
-	<ol>
+	<ul>
 		<li>
 		Journal of Renewable and Sustainable Energy	; Energy Conversion and Management: X ; Solar Energy ; Journal of Hydrology ; 
 		</li>
 	
-	</ol>
+	</ul>
 	
 	
 	<h3>Thesis Consultant:</h3>
