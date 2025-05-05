@@ -6,7 +6,7 @@ title: Publications & Academic work
 	<h3>Journal Papers:</h3>
 	<ol>
 		<li>
-			Pesce, M., <strong>Vohnicky, P.</strong>, Dallan, E., Marra, F., Fosser, G., and Borga, M. (2025). 
+			Pesce, M.*, <strong>Vohnicky, P.</strong>, Dallan, E., Marra, F., Fosser, G., and Borga, M. (2025). 
 			<i> Elevation-Dependent Amplification of Rainfall Extremes: The Role of Rainfall/Snowfall Fraction in Convection-Permitting Models. </i> 
 			Biosystems Engineering Promoting Resilience to Climate Change - AIIA 2024 - Mid-Term Conference. Lecture Notes in Civil Engineering, vol 586. 
 			<a href="https://doi.org/10.1007/978-3-031-84212-2_23" target="_blank">https://doi.org/10.1007/978-3-031-84212-2_23</a>
@@ -25,7 +25,7 @@ title: Publications & Academic work
 			<a href="https://doi.org/10.1016/j.renene.2022.01.027" target="_blank">https://doi.org/10.1016/j.renene.2022.01.027</a>
 		</li>
 		<li>
-			Jang, J. H., <strong>Vohnicky, P. </strong> , and Kuo, Y. L.  (2021).
+			Jang, J. H.*, <strong>Vohnicky, P. </strong> , and Kuo, Y. L.  (2021).
 			<i> Improvement of Flood Risk Analysis Via Downscaling of Hazard and Vulnerability Maps. </i> 
 			Water Resources Management, 35(7), 2215–2230. 
 			<a href="https://doi.org/10.1007/s11269-021-02836-0" target="_blank">https://doi.org/10.1007/s11269-021-02836-0</a>
@@ -48,7 +48,7 @@ title: Publications & Academic work
 	
 	<ul style="list-style-type:none">
 		<li>
-			<strong>EGU General Assembly 2025 (Vienna, Austria);  2025; </strong> Abstract and Presentation
+			<strong>EGU General Assembly 2025 (Vienna, Austria);  2025; </strong> Abstract and Presentation - Presented by Thomas, E.
 		</li>
 		<li>
 			Thomas, E., Borga, M., <strong>Vohnicky, P.</strong>, and Marra, F.</li>
@@ -59,7 +59,7 @@ title: Publications & Academic work
 	
 	<ul style="list-style-type:none">
 		<li>
-			<strong>EGU General Assembly 2025 (Vienna, Austria);  2025; </strong> Abstract and Poster
+			<strong>EGU General Assembly 2025 (Vienna, Austria);  2025; </strong> Abstract and Poster - Presented by Ahmed, M.
 		</li>
 		<li>
 			Ahmed, M., Dallan, E., <strong>Vohnicky, P.,</strong>, and Borga, M.</li>
@@ -70,7 +70,7 @@ title: Publications & Academic work
 	
 	<ul style="list-style-type:none">
 		<li>
-			<strong>EGU General Assembly 2025 (Vienna, Austria);  2025; </strong> Abstract and Presentation
+			<strong>EGU General Assembly 2025 (Vienna, Austria);  2025; </strong> Abstract and Presentation - Presented by Pesce, M.
 		</li>
 		<li>
 			Pesce, M., Dallan, E., Marra, F., Fosser, G., <strong>Vohnicky, P.</strong>, Akbary, R., and Borga, M.</li>
