@@ -6,13 +6,34 @@ title: Publications & Academic work
 	<h3>Journal Papers:</h3>
 	<ol>
 		<li>
+			Han, J. Y., Kan, Y. H.*, and <strong>Vohnicky, P.</strong>. (2026). 
+			<i> A framework for PV yield-based solar energy mapping in mid-low latitude regions with complex topography. </i> 
+			Renewable Energy, Volume 256, Part H.
+			<a href="https://doi.org/10.1016/j.renene.2025.124512" target="_blank">https://doi.org/10.1016/j.renene.2025.124512</a>
+		</li>
+	
+		<li>
+			<strong>Vohnicky, P.*</strong>, Dallan, E., Marra, F., Fosser, G., and Borga, M. (2025). 
+			<i> Future Precipitation Extremes: Differential Changes from Point to Catchment Scale Revealed by a Convection-Permitting Model Ensemble. </i> 
+			Journal of Hydrology 662 (December).
+			<a href="https://doi.org/10.1016/j.jhydrol.2025.133822" target="_blank">https://doi.org/10.1016/j.jhydrol.2025.133822</a>
+		</li>
+	
+		<li>
+			Purnomo, S.*, Widiyanto, W., <strong>Vohnicky, P.</strong>, Pratama, A., Abdullah, G., and Rahman, H. (2025).
+			<i> Strategies for Managing Land Subsidence and Coastal Flooding: An Analysis of the Situation in Pekalongan, the Northern Coast of Central Java. </i> 
+			Irrigation and Drainage (SPECIAL ISSUE ARTICLE).
+			<a href="https://doi.org/10.1002/ird.70001" target="_blank">https://doi.org/10.1002/ird.70001</a>
+		</li>
+	
+		<li>
 			Pesce, M.*, <strong>Vohnicky, P.</strong>, Dallan, E., Marra, F., Fosser, G., and Borga, M. (2025). 
 			<i> Elevation-Dependent Amplification of Rainfall Extremes: The Role of Rainfall/Snowfall Fraction in Convection-Permitting Models. </i> 
 			Biosystems Engineering Promoting Resilience to Climate Change - AIIA 2024 - Mid-Term Conference. Lecture Notes in Civil Engineering, vol 586. 
 			<a href="https://doi.org/10.1007/978-3-031-84212-2_23" target="_blank">https://doi.org/10.1007/978-3-031-84212-2_23</a>
 		</li>
 	
-        <li>
+		<li>
 			Han, J. Y., and <strong>Vohnicky, P.*</strong>  (2022). 
 			<i> Estimation of global and diffuse horizontal irradiance by machine learning techniques based on variables from the Heliosat model. </i> 
 			Journal of Cleaner Production. 
@@ -35,6 +56,17 @@ title: Publications & Academic work
 	<p></p>
 	
 	<h3>Conferences:</h3>	
+	<ul style="list-style-type:none">
+		<li>
+			<strong>EMS Annual Meeting 2025 (Ljubljana, Slovenia);  2025; </strong> Abstract and Presentation - Presented by Thomas, E.
+		</li>
+		<li>
+			Thomas, E., Dallan, E., Borga, M., <strong>Vohnicky, P.</strong>, and Marra, F.</li>
+		<li>
+			<i>Changes in hourly rainfall return levels due to temperature shifts: parametrization of the TENAX model across different climates.</i>
+		</li>
+	</ul>
+	
 	<ul style="list-style-type:none">
 		<li>
 			<strong>EGU General Assembly 2025 (Vienna, Austria);  2025; </strong> Abstract and Poster
@@ -175,6 +207,15 @@ title: Publications & Academic work
 		</li>
 		<li>
 		Journal of Hydrology
+		</li>
+		<li>
+		Environmental and Ecological Statistics
+		</li>
+		<li>
+		Discover Cities
+		</li>
+		<li>
+		Communications Earth & Environment
 		</li>
 	</ul>
 	

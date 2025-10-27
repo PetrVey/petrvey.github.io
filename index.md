@@ -10,10 +10,10 @@ layout: page
         </figure>
 	</div>
 	<div class="column">
-		<p>Hello! I am Petr and this is my personal website.</p>
-		<p>I am doing my PhD at Universtiy of Padova in water resources, soil and watershed protection group at the Department of Land, Environment, Agriculture and Forestry.</p>
-		<p>In past, I spent two years of working in Taipei City (TAIWAN) as a reseach assistant at National Taiwan University just right after I received my MSc. degree in <em>Natural hazards mitigation and management</em> from National Cheng Kung University (TAIWAN) in 2020.</p>
-		<p>I've been interested in anything related to water science and GIS. Lately, owing to my work experience, I've been also excited about remote sensing technology and python coding. 😃</p>
+		<p>Hello! I’m Petr, and this is my personal website.</p>
+		<p>I am currently pursuing my PhD at the University of Padova in the Water Resources, Soil, and Watershed Protection Group at the Department of Land, Environment, Agriculture, and Forestry.</p>
+		<p>In the past, I spent two years working in Taipei City, Taiwan, as a research assistant at National Taiwan University, right after receiving my MSc degree in Natural Hazards Mitigation and Management from National Cheng Kung University (Taiwan) in 2020.</p>
+		<p>I’ve always been interested in everything related to water science and GIS. Recently, thanks to my work experience, I’ve also become passionate about remote sensing technology and Python programming.😃</p>
 		<p></p>
 		<h3>Here's my short CV</h3>
 		<div class="content">
