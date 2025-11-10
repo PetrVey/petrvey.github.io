@@ -13,18 +13,18 @@ features:
 Sort_Position: 03
 ---
 <div class="content">
-This is based on my research I have done at National Taiwan University and on the <a href="https://doi.org/10.1016/j.renene.2022.01.027" target="_blank">manuscript</a> I have published together with Professor Jen-Yu Han. 
+This work is based on my research at National Taiwan University and the <a href="https://doi.org/10.1016/j.renene.2022.01.027" target="_blank">manuscript</a> I co-authored with Professor Jen-Yu Han.. 
 </div>
 ---
 <div class="content">
 	<h3>Problem statment:</h3>
-	<p>Map the past global horizontal irradiance (GHI) to support the renewable solar energy sector in the Taiwan.</p>
+	<p>Map past global horizontal irradiance (GHI) to support the renewable solar energy sector in Taiwan.</p>
 	
 	<h3>How I did it:</h3>
-	<p>First, I downloaded Himawari-8 satellite data and NASA's reanalysis MERRA-2 data.</p>
-	<p>Second, I applied proposed methodology from manuscript, that modified <a href="https://doi.org/10.1016/j.solener.2004.04.017" target="_blank">Heliosat method</a>. This was done by python scripts.</p>
-	<p>Lastly, the output data in hourly temporal resolution were converted to monhtly sum.</p>
-	<p>Such data will be later used to produce the typical meteorological year for the whole Taiwan island.</p>
+	<p>First, I downloaded Himawari-8 satellite data and NASA's MERRA-2 reanalysis data.</p> 
+	<p>Second, I applied the methodology proposed in the <a href="https://doi.org/10.1016/j.solener.2004.04.017" target="_blank">manuscript</a>, which is a modified Heliosat method. The processing was performed using Python scripts.</p> 
+	<p>Lastly, the output data, originally at hourly temporal resolution, were aggregated to monthly sums.</p> 
+	<p>These data will later be used to produce a typical meteorological year for the entire island of Taiwan.</p>
 </div>
 
 <div class="content">
@@ -32,7 +32,7 @@ This is based on my research I have done at National Taiwan University and on th
 	<figure class="image is-320x240">
 		<img src="img/netcdf_plot.gif">
 			<figcaption>
-				Figure 1: 2020 monthly irradiance gif. Taiwan island on right and Taipei city region on left.
+				Figure 1: 2020 monthly irradiance GIF showing Taiwan Island (right) and the Taipei City region (left).
 		</figcaption>
 	</figure>
 </div>
