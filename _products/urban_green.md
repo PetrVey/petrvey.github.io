@@ -20,18 +20,18 @@ Little for fun project :)
 
 <div class="content">
 	<h3>Problem statment:</h3>
-	<p>In 2019, The city of Prague (capital of the Czech Republic) set a goal of planting a million trees on its territory within eight years</p>
-	<p>Details here: <a href="https://www.zastromujprahu.cz" target="_blank">zastromujprahu.cz</a> and <a href="https://adaptacepraha.cz" target="_blank">adaptacepraha.cz</a>
-	<p>Out of curiosity, I want to map how total % urban green has improved after this policy was implemented.</p>
-	<p>It's best to use satellite observations for such task as it's very similar to landuse change mapping.</p>
-	<p>Altought, in this case, the simpler method based on normalized difference vegetation index <a href="https://doi.org/10.3390/land11030351" target="_blank"><b>(NDVI)</b></a> can be used. This method utilized the Sentinel-2 satellite imagery.</p>
+	<p>In 2019, the city of Prague (capital of the Czech Republic) set a goal of planting one million trees within eight years on its territory.</p> 
+	<p>Details can be found at <a href="https://www.zastromujprahu.cz" target="_blank">zastromujprahu.cz</a> and <a href="https://adaptacepraha.cz" target="_blank">adaptacepraha.cz</a>.</p> 
+	<p>Out of curiosity, I aim to map how the total percentage of urban green areas has changed since this policy was implemented.</p> 
+	<p>Satellite observations are ideal for this task, as it is very similar to land-use change mapping.</p> 
+	<p>Alternatively, a simpler approach based on the normalized difference vegetation index (<a href="https://doi.org/10.3390/land11030351" target="_blank"><b>NDVI</b></a>) can be used. This method utilizes Sentinel-2 satellite imagery.</p>
 	<p></p>
-	
+		
 	<h3>How I did it:</h3>
 	<p><b>1.) Download:</b></p>
-	<p>Shapefile of <a href="https://www.geoportalpraha.cz/en/data/opendata" target="_blank">municipality districts of Prague city</a>.</p>
-	<p>Cloudless Sentinel-2 satellite imagery from 2020 to 2021. Probably the easiest option for this is to use <a href="https://fromgistors.blogspot.com/p/semi-automatic-classification-plugin.html" target="_blank">Semi-Automatic Classification Plugin for QGIS</a> by amazing Luca Congedo.</p>
-	<p>Note: Sentinel-2 images were downloaded for summer period (June to August) from 2015 to 2021. This mostly corresponded to only one cloudless image only for each year.</p>
+	<p>Shapefile of the <a href="https://www.geoportalpraha.cz/en/data/opendata" target="_blank">municipality districts of Prague city</a>.</p> 
+	<p>Cloud-free Sentinel-2 satellite imagery from 2020 to 2021. The easiest approach for processing is likely the <a href="https://fromgistors.blogspot.com/p/semi-automatic-classification-plugin.html" target="_blank">Semi-Automatic Classification Plugin for QGIS</a>, developed by Luca Congedo.</p> 
+	<p>Note: Sentinel-2 images were downloaded for the summer period (June to August) from 2015 to 2021. In most cases, only a single cloud-free image was available per year.</p>
 	<div class="columns">
 		<div class="column">
 			{% include image-modal.html ratio="is-128x128" link="products/urban_green/img/01_321RGB.jpg" alt="Sentinel-2 RBG" large_link="products/urban_green/img/01_321RGB.jpg" %}
@@ -56,7 +56,7 @@ Little for fun project :)
 	<p><b>2.) Calculate NDVI</b></p>
 	<p>Equation for NDVI goes as: <i>NDVI = (NIR-RED) / (NIR+RED)</i>.</p>
 	<p>These refers to: <i>NDVI = (B8 - B4) / (B8 + B4)</i> of Sentinel-2.</p>
-	<p>In my case, I did this by raster calculator in QGIS.</p>
+	<p>In my case, this was done using the Raster Calculator in QGIS.</p>
 	<div class="columns">
 		<div class="column">
 			{% include image-modal.html ratio="is-128x128" link="products/urban_green/img/03_ndvi20200806.jpg" alt="NDVI" large_link="products/urban_green/img/03_ndvi20200806.jpg" %}
@@ -73,7 +73,7 @@ Little for fun project :)
 	</div>
 	
 	<p><b>3.) Divide image to non-vegetation and vegetation</b></p>
-	<p>Again, I used raster calculator with conditional statments where NDVI>0.19 was vegetation and NDVI<0.19 was non-vegetation.</p>
+	<p>I used the Raster Calculator with conditional statements, classifying pixels with NDVI > 0.19 as vegetation and NDVI ≤ 0.19 as non-vegetation.</p>
 	<div class="columns">
 		<div class="column">
 			{% include image-modal.html ratio="is-128x128" link="products/urban_green/img/07_UG.jpg" alt="Urban green" large_link="products/urban_green/img/07_UG.jpg" %}
@@ -83,9 +83,9 @@ Little for fun project :)
 		</div>
 	</div>
 	
-	<p><b>4.) Calculate percentage of urban green in each municipality district</b></p>
-	<p>There are many ways how to handle this task. I used zonal statistics where raster values were summed to each polygon.</p>
-	<p>Lastly, to obtain percentage of vegatation the sum was divided by count.</p>
+	<p><b>4.) Calculate the percentage of urban green areas in each municipal district.</b></p>
+	<p>There are several approaches to accomplish this task. I used zonal statistics, summing raster values within each polygon.</p> 
+	<p>Finally, the percentage of vegetation was calculated by dividing the sum of vegetation pixels by the total number of pixels in the polygon.</p>
 	<p></p>
 <div class="content">
 	<h3>Result:</h3>
@@ -96,21 +96,20 @@ Little for fun project :)
 		</figcaption>
 	</figure>
 	<p></p>
-	<p>Also, let's have a look how Prague city centre vegetation has changed since 2015.</p>
-	<p>There was a positive trend in development. Altought, this result also highligted a seasonality changes in summer during wet/dry periods. The drop in 2020 was probably caused by unusual drought summer, thus, low-vegetatation (grass+shrub) died or has too low NDVI.</p>
+	<p>Next, I examined how vegetation in the Prague city centre has changed since 2015.</p> 
+	<p>Overall, there was a positive trend in vegetation development. However, this analysis also highlighted seasonal variations during the summer months associated with wet and dry periods. The drop in 2020 was likely caused by an unusually dry summer, which led to low vegetation (grass and shrubs) dying or exhibiting very low NDVI values.</p>
 	<figure class="image is-320x240">
 		<img src="img/09_prg_time.JPEG">
 			<figcaption>
 				Figure 9: Temporal change of vegetation in Prague 1, 2, and 3
 		</figcaption>
 	</figure>
-	<p>There was a positive trend in development. Altought, this result also highligted a seasonality changes in summer during wet/dry periods. The drop in 2020 was probably caused by unusual drought summer, thus, low-vegetatation (grass+shrub) died or has too low NDVI.</p>
 	<p></p>
 	
 ---
 	<p>Note:</p>
-	<p>The results of this project cannot be interpreted as the absolute truth. It is always necessary to do further analysis. </p>
-	<p>There is also possibility to detect only trees, so more accurate analysis can be done in future.</p>
+	<p>The results of this project should not be interpreted as absolute truth; further analysis is always necessary.</p> 
+	<p>It is also possible to focus specifically on detecting trees, which would allow for a more accurate analysis in the future.</p>
 </div>
 ---
 <div class="block">

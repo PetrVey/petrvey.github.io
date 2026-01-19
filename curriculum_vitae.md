@@ -19,6 +19,19 @@ title: Curriculum Vitae
 			► Statistical modeling in Python and Matlab <br>
 		</p>
 	</div>	
+	
+	<div class="box">
+		<p> 
+			<strong>Feb 2025 - May 2025 </strong><br>
+			University of Lausanne (Switzerland) <br>
+			Visiting PhD student <br>
+			<br>
+			► Visiting student at the Hydrometeorology and Surface Processes Group (led by Nadav Peleg). <br>
+			► Application of the stochastic weather generator AWEGEN-2D. <br>
+			<br>
+		</p>
+	</div>	
+	
 	<div class="box">
 		<p> 
 			<strong>Feb 2023 - Sep 2023</strong><br>
