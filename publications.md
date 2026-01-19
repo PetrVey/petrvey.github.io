@@ -6,7 +6,7 @@ title: Publications & Academic work
 	<h3>Journal Papers:</h3>
 	<ol>
 		<li>
-			Han, J. Y., Kan, Y. H.*, and <strong>Vohnicky, P.</strong>. (2026). 
+			Han, J. Y., Kan, Y. H.*, and <strong>Vohnicky, P.</strong> (2026). 
 			<i> A framework for PV yield-based solar energy mapping in mid-low latitude regions with complex topography. </i> 
 			Renewable Energy, Volume 256, Part H.
 			<a href="https://doi.org/10.1016/j.renene.2025.124512" target="_blank">https://doi.org/10.1016/j.renene.2025.124512</a>
@@ -56,6 +56,17 @@ title: Publications & Academic work
 	<p></p>
 	
 	<h3>Conferences:</h3>	
+		<ul style="list-style-type:none">
+		<li>
+			<strong>SWGEN 2025 - Conference on Stochastic Weather Generators (Grenoble, France);  2025 </strong> Abstract and Presentation
+		</li>
+		<li>
+			<strong>Vohnicky, P.</strong>, Dallan, E., Marra, F., Peleg, N., and Borga, M.</li>
+		<li>
+			<i>Stochastic Weather Generation at High Spatial Resolution Informed by Convection-Permitting Modeling</i>
+		</li>
+	</ul>
+	
 	<ul style="list-style-type:none">
 		<li>
 			<strong>EMS Annual Meeting 2025 (Ljubljana, Slovenia);  2025; </strong> Abstract and Presentation - Presented by Thomas, E.
@@ -215,7 +226,10 @@ title: Publications & Academic work
 		Discover Cities
 		</li>
 		<li>
-		Communications Earth & Environment
+		Communications Earth & Environment (Nature)
+		</li>
+		<li>
+		Scientific reports (Nature)
 		</li>
 	</ul>
 	

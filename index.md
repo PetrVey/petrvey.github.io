@@ -22,7 +22,7 @@ layout: page
 				<li>
 					<p> Oct 2023 - ongoing  <br> 	
 						Università degli Studi di Padova (Italy) <br>
-						PhD researcher </p>
+						MSCA PhD Fellow </p>
 				</li>
 				<li>
 					<p> Feb 2023 - Sep 2023<br> 	
