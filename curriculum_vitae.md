@@ -8,7 +8,7 @@ title: Curriculum Vitae
 		<p> 
 			<strong>Oct 2023 - ongoing </strong><br>
 			Università degli Studi di Padova (Italy) <br>
-			PhD researcher <br>
+			MSCA PhD fellow <br>
 			<br>
 			► Phd Fellow under Marie Skłodowska-Curie grant (UniPHD cofound)<br>
 			► Department of Land, Environment, Agriculture and Forestry <br>
@@ -17,6 +17,7 @@ title: Curriculum Vitae
 			► Sub-title: Relationship between future changes in precipitation and flooding for extreme events<br>
 			<br>
 			► Statistical modeling in Python and Matlab <br>
+			► Python packages development (pyTenax, pySMEV, pyErosivity), all on git<br>
 		</p>
 	</div>	
 	
@@ -92,7 +93,6 @@ title: Curriculum Vitae
 			Projected changes in flood occurrence at convection-permitting scale across an alpine transect. <br>
 			Sub-title: Relationship between future changes in precipitation and flooding for extreme events<br>
 			<br>
-			Period abroad: <br>
 		</p>
 	</div>
 

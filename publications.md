@@ -58,7 +58,7 @@ title: Publications & Academic work
 	<h3>Conferences:</h3>	
 		<ul style="list-style-type:none">
 		<li>
-			<strong>SWGEN 2025 - Conference on Stochastic Weather Generators (Grenoble, France);  2025 </strong> Abstract and Presentation
+			<strong>SWGEN 2025 - Conference on Stochastic Weather Generators (Grenoble, France);  2025 </strong>; Abstract and Presentation
 		</li>
 		<li>
 			<strong>Vohnicky, P.</strong>, Dallan, E., Marra, F., Peleg, N., and Borga, M.</li>
