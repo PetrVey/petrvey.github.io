@@ -54,7 +54,7 @@ layout: page
 					2018<br>
 					Technical University of Ostrava (Czech Republic) <br>
 					Engineer’s degree – Ing. <br>
-					Engineering Safety of Persons and property 
+					Engineering Safety of Persons and Property 
 					</p>
 				</li>
 			</ul>
@@ -62,7 +62,7 @@ layout: page
 			<ul> PostGIS / PostgreSQL / Microsoft Azure / Agile Project Management / Git / Scrum / 
 			Geographic Information Systems / ArcGIS / QGIS / HEC-RAS / 
 			Python (Numpy, Scipy, Matplotlib, Pandas, Xarray, and scikit-learn libraries, Open3D) / 
-			MicrosoftOffice / NodeXL / Gephi Software / Creating Static Sites with Jekyll
+			Microsoft Office / NodeXL / Gephi Software / Creating Static Sites with Jekyll
 			</ul>
 			
 		</div>

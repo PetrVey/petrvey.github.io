@@ -10,7 +10,7 @@ title: Curriculum Vitae
 			Università degli Studi di Padova (Italy) <br>
 			MSCA PhD fellow <br>
 			<br>
-			► Phd Fellow under Marie Skłodowska-Curie grant (UniPHD cofound)<br>
+			► PhD Fellow under Marie Skłodowska-Curie grant (UniPD cofund)<br>
 			► Department of Land, Environment, Agriculture and Forestry <br>
 			in Water resources, soil and watershed protection group.<br>
 			► Project title: Projected changes in flood occurrence at convection-permitting scale across an alpine transect<br>
@@ -40,7 +40,7 @@ title: Curriculum Vitae
 			Geo data scientist  <br>
 			<br>
 			► Developed the rooftop plane segmentation Python package. <br>
-			► Used PostgreSQL, PostGIS, and sqlachemy to extend the database. <br>
+			► Used PostgreSQL, PostGIS, and SQLAlchemy to extend the database. <br>
 			► Worked with Lidar Point Cloud dataset and GIS data. <br>
 			► Applied GrassGIS for solar energy analysis. <br>
 			► Worked in an Agile Scrum environment. <br>
@@ -71,8 +71,8 @@ title: Curriculum Vitae
 			► Prepared teaching and training materials for HEC-RAS software. <br>
 			► Methodology design for the project about stormwater inlets’ capacity and urban pluvial flooding. <br>
 			► Literature research for paper publishing. <br>
-			► Participated in the project Evaluation of Natural-based solution sites in Taiwan of four catchments as cooperation 
-			between Water resource agency Taiwan and European Union (Horizon program). <br>
+			► Participated in the project Evaluation of Nature-based solution sites in Taiwan of four catchments, in cooperation 
+			between Water Resources Agency, Taiwan and the European Union (Horizon program). <br>
 		</p>
 	</div>
 	
@@ -127,7 +127,7 @@ title: Curriculum Vitae
 			Engineer’s degree – Ing. <br>
 			<br>
 			<strong>Field of study: </strong>
-			<br>Engineering Safety of Persons and property<br>
+			<br>Engineering Safety of Persons and Property<br>
 			<strong>Thesis: </strong>
 			<br>Security Study of Selected Propaganda Media on the Social Network.<br>
 			<br>
