@@ -88,11 +88,15 @@ image: /products/pyerosivity/img/fig00_Re_comparison.jpeg
 
 <hr>
 
-<h2>Current Limitations</h2>
+<h2>Event Detection Methods</h2>
 
 <p>
-  Erosivity events are currently identified <strong>only</strong> via the Imax30 threshold. Future work will also incorporate the accumulated precipitation criterion (&gt;12.7 mm per event) following the full RUSLE definition.
+  Two event detection approaches are implemented, both combining the Imax30 intensity threshold with an accumulated precipitation criterion (&gt;12.7 mm per event) using OR logic:
 </p>
+<ul>
+  <li><strong>Wischmeier (1959)</strong> — <code>get_only_erosivity_events()</code>: event qualifies if hourly intensity ≥ 12.7 mm/h <em>or</em> total accumulation ≥ 12.7 mm.</li>
+  <li><strong>Renard/RUSLE (1997)</strong> — <code>get_only_erosivity_events_Renard()</code>: event qualifies if peak Imax30 depth ≥ 12.7 mm <em>or</em> total accumulation ≥ 12.7 mm.</li>
+</ul>
 
 <hr>
 
