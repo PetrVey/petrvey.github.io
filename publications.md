@@ -58,6 +58,42 @@ title: Publications & Academic work
 	<h3>Conferences:</h3>	
 		<ul style="list-style-type:none">
 		<li>
+			<strong>EGU General Assembly 2026 (Vienna, Austria);  2026; </strong> Abstract and Poster
+		</li>
+		<li>
+			<strong>Vohnicky, P.</strong>, Dallan, E., Marra, F., and Borga, M.</li>
+		<li>
+			<i>A Hybrid Bias-Correction Framework for Extreme Precipitation in Convection-Permitting Models</i>
+			<a href="https://doi.org/10.5194/egusphere-egu26-10004" target="_blank">https://doi.org/10.5194/egusphere-egu26-10004</a>
+		</li>
+	</ul>
+
+	<ul style="list-style-type:none">
+		<li>
+			<strong>EGU General Assembly 2026 (Vienna, Austria);  2026; </strong> Abstract and Poster - Presented by Ahmed, M.
+		</li>
+		<li>
+			Ahmed, M., Dallan, E., Panagos, P., <strong>Vohnicky, P.</strong>, and Borga, M.</li>
+		<li>
+			<i>Future Evolution of Rainfall Erosivity in the Greater Alpine Region from Convection-Permitting Climate Models</i>
+			<a href="https://doi.org/10.5194/egusphere-egu26-18825" target="_blank">https://doi.org/10.5194/egusphere-egu26-18825</a>
+		</li>
+	</ul>
+
+	<ul style="list-style-type:none">
+		<li>
+			<strong>EGU General Assembly 2026 (Vienna, Austria);  2026; </strong> Abstract and Poster - Presented by Ezeaba, A.
+		</li>
+		<li>
+			Ezeaba, A., Dallan, E., <strong>Vohnicky, P.</strong>, and Borga, M.</li>
+		<li>
+			<i>Interplay Between Event Frequency and Intensity in Future Rainfall Erosivity revealed by Convection-permitting climate models</i>
+			<a href="https://doi.org/10.5194/egusphere-egu26-1632" target="_blank">https://doi.org/10.5194/egusphere-egu26-1632</a>
+		</li>
+	</ul>
+
+	<ul style="list-style-type:none">
+		<li>
 			<strong>SWGEN 2025 - Conference on Stochastic Weather Generators (Grenoble, France);  2025 </strong>; Abstract and Presentation
 		</li>
 		<li>

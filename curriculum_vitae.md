@@ -19,8 +19,20 @@ title: Curriculum Vitae
 			► Statistical modeling in Python and Matlab <br>
 			► Python packages development (pyTenax, pySMEV, pyErosivity), all on git<br>
 		</p>
-	</div>	
 	
+	</div>	
+		<div class="box">
+		<p> 
+			<strong>Apr 2026 - Jun 2026 </strong><br>
+			Delft University of Technology – TU Delft (Netherlands) <br>
+			Visiting PhD student <br>
+			<br>
+			► Visiting student at the Hydrology and Water Resources Group. <br>
+			► Supervised by Remko Uijlenhoet and Markus Hrachowitz. <br>
+			<br>
+		</p>
+	</div>	
+
 	<div class="box">
 		<p> 
 			<strong>Feb 2025 - May 2025 </strong><br>
@@ -32,6 +44,7 @@ title: Curriculum Vitae
 			<br>
 		</p>
 	</div>	
+
 	
 	<div class="box">
 		<p> 
