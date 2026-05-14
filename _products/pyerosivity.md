@@ -64,7 +64,8 @@ image: /products/pyerosivity/img/fig00_Re_comparison.jpeg
     <tr><td><code>get_events_values()</code></td><td>Computes Imax30, depth, Ekin, and Re for each event</td></tr>
     <tr><td><code>E_kin_i()</code></td><td>Per-interval kinetic energy (DIN 19708)</td></tr>
     <tr><td><code>E_kin_i_BrFr()</code></td><td>Per-interval kinetic energy (Brown &amp; Foster 1987)</td></tr>
-    <tr><td><code>boostrapping_erosivity_60min()</code></td><td>Bootstrap resampling of annual erosivity metrics</td></tr>
+    <tr><td><code>boostrapping_erosivity_60min()</code></td><td>Bootstrap resampling of annual erosivity metrics from observational 60-min data</td></tr>
+    <tr><td><code>boostrapping_erosivity_CPM_60min()</code></td><td>Bootstrap resampling for Convection-Permitting Model (CPM) 60-min data; supports predefined random year sequences</td></tr>
   </tbody>
 </table>
 
@@ -94,7 +95,7 @@ image: /products/pyerosivity/img/fig00_Re_comparison.jpeg
   Two event detection approaches are implemented, both combining the Imax30 intensity threshold with an accumulated precipitation criterion (&gt;12.7 mm per event) using OR logic:
 </p>
 <ul>
-  <li><strong>Wischmeier (1959)</strong> — <code>get_only_erosivity_events()</code>: event qualifies if hourly intensity ≥ 12.7 mm/h <em>or</em> total accumulation ≥ 12.7 mm.</li>
+  <li><strong>Wischmeier (1959)</strong> — <code>get_only_erosivity_events(use_both_thresholds=True)</code>: event qualifies if hourly intensity ≥ 12.7 mm/h <em>or</em> total accumulation ≥ 12.7 mm. Setting <code>use_both_thresholds=False</code> applies only the intensity criterion.</li>
   <li><strong>Renard/RUSLE (1997)</strong> — <code>get_only_erosivity_events_Renard()</code>: event qualifies if peak Imax30 depth ≥ 12.7 mm <em>or</em> total accumulation ≥ 12.7 mm.</li>
 </ul>
 
