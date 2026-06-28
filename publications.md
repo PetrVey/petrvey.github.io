@@ -5,13 +5,28 @@ title: Publications & Academic work
 <div class="content">
 	<h3>Journal Papers:</h3>
 	<ol>
+		
+		<li>
+			Thomas, E.*, <strong>Vohnicky, P.</strong>, Borga, M., Peleg, N., and Marra, F. (2025). 
+			<i> Technical note: Temperature dependence of precipitation tail heaviness in the TENAX model. </i> 
+			Hydrology and Earth System Sciences (accepted, in press). EGUsphere [preprint].
+			<a href="https://doi.org/10.5194/egusphere-2025-4741" target="_blank">https://doi.org/10.5194/egusphere-2025-4741</a>
+		</li>
+
+		<li>
+			Ezeaba, A., Dallan, E.*, <strong>Vohnicky, P.</strong>, Pampalone, V., and Borga, M. (2026). 
+			<i> Unravelling the interplay between event frequency and intensity in driving rainfall erosivity future changes: Insights from convection-permitting climate simulations in a mediterranean island. </i> 
+			CATENA, 272, 110350.
+			<a href="https://doi.org/10.1016/j.catena.2026.110350" target="_blank">https://doi.org/10.1016/j.catena.2026.110350</a>
+		</li>
+
 		<li>
 			Han, J. Y., Kan, Y. H.*, and <strong>Vohnicky, P.</strong> (2026). 
 			<i> A framework for PV yield-based solar energy mapping in mid-low latitude regions with complex topography. </i> 
 			Renewable Energy, Volume 256, Part H.
 			<a href="https://doi.org/10.1016/j.renene.2025.124512" target="_blank">https://doi.org/10.1016/j.renene.2025.124512</a>
 		</li>
-	
+
 		<li>
 			<strong>Vohnicky, P.*</strong>, Dallan, E., Marra, F., Fosser, G., and Borga, M. (2025). 
 			<i> Future Precipitation Extremes: Differential Changes from Point to Catchment Scale Revealed by a Convection-Permitting Model Ensemble. </i> 
@@ -55,8 +70,21 @@ title: Publications & Academic work
 	
 	<p></p>
 	
-	<h3>Conferences:</h3>	
-		<ul style="list-style-type:none">
+	<h3>Conferences:</h3>
+
+	<ul style="list-style-type:none">
+		<li>
+			<strong>HIC2026 - 16th International Conference on Hydroinformatics (Zaragoza, Spain);  2026; </strong> Abstract and Oral
+		</li>
+		<li>
+			<strong>Vohnicky, P.</strong>, Dallan, E., Marra, F., Borga, M., Uijlenhoet, R., Hrachowitz, M., and Peleg, N.</li>
+		<li>
+			<i>Quantifying Future Catchment Hydrological Changes through High-Resolution Stochastic Weather Generation Informed by Convection-Permitting Models
+			</i>
+		</li>
+	</ul>	
+	
+	<ul style="list-style-type:none">
 		<li>
 			<strong>EGU General Assembly 2026 (Vienna, Austria);  2026; </strong> Abstract and Poster
 		</li>
@@ -244,28 +272,28 @@ title: Publications & Academic work
 	<h3>Reviewer: </h3>
 	<ul>
 		<li>
-		Journal of Renewable and Sustainable Energy	
-		</li>
-		<li>
-		Energy Conversion and Management: X 
-		</li>
-		<li>
-		Solar Energy 
-		</li>
-		<li>
 		Journal of Hydrology
-		</li>
-		<li>
-		Environmental and Ecological Statistics
-		</li>
-		<li>
-		Discover Cities
 		</li>
 		<li>
 		Communications Earth & Environment (Nature)
 		</li>
 		<li>
 		Scientific reports (Nature)
+		</li>
+		<li>
+		Solar Energy 
+		</li>
+		<li>
+		Journal of Renewable and Sustainable Energy	
+		</li>
+		<li>
+		Energy Conversion and Management: X 
+		</li>
+		<li>
+		Discover Cities
+		</li>
+		<li>
+		Environmental and Ecological Statistics
 		</li>
 	</ul>
 	
